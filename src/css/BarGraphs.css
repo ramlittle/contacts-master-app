@@ -1,0 +1,30 @@
+.new-contact-bar{
+    background-color:blue;
+    height:20px;
+}
+.interested-bar{
+    background-color:Green;
+    height:20px;
+}
+.not-interested-bar{
+    background-color:white;
+    height:20px;
+}
+.call-back-bar{
+    background-color:orange;
+    height:20px;
+}
+.do-not-call-bar{
+    background-color:red;
+    height:20px;
+}
+
+/* table */
+.primary{
+    display:flex;
+    flex-direction:row;
+    border:1px solid grey;
+}
+.secondary{
+    width: 200px;
+}

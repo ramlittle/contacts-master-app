@@ -1,0 +1,26 @@
+.document{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+}
+.document-header-container{
+    background-color:blue;
+    width:80%;
+    padding:20px;
+    color:white;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.document-avatar-container{
+    display:flex;
+    flex-direction:row;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    padding:20px;
+    background-color:lightblue;
+}
+.contact-life-cycle-container strong{
+    padding:0;
+}

@@ -1,0 +1,88 @@
+@media screen and (max-width:767px){
+    /* HEADER SECTION */
+
+    /* hide menu and show burger button */
+    nav{
+        display:none;
+    }
+    .show-menu-button{
+        display:block;
+    }
+    ul{
+        flex-direction:column;
+    }
+    .header-logo-container{
+        flex-direction:column;
+        font-size:small;
+    }
+    .logo-image-container{
+        width:20px;
+    }
+    .logo-words-container{
+        font-size:small;
+    }
+    .links{
+        padding:0;
+        font-size:small;
+        font-weight:thin;
+        margin:5px;
+    }
+    .sub-links{
+        padding:0;
+        font-size:small;
+        font-weight:thin;
+        margin:5px;
+    }
+    /* HOMEPAGE SECTION */
+    .dashboard-container{
+        flex-direction:column;
+        height:auto;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    /* Table Data */
+    table{
+        font-size:small;
+    }
+    td{
+       padding:0;
+    }
+    /* buttons */
+    .interested-button,
+    .not-interested-button,
+    .call-back-button,
+    .do-not-call-button{
+        padding:5px;
+        font-weight: thin;
+        font-size:small;
+    }
+
+    /* Add New contact form */
+    legend{
+        margin:0;
+        padding:5px;
+        font-size:small;
+    }
+    fieldset{
+        padding:0;
+    }
+    .row-header{
+        font-weight: bold;
+        padding:0;
+    }
+    input{
+        padding:5px;
+    }
+    .add-button{
+        padding:0;
+        font-size: small;
+    }
+}
+/* Desktop size */
+@media screen and (min-width: 992px){
+    .close-menu-button,
+    .show-menu-button{
+       display:none;
+    }
+}

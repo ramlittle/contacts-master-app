@@ -1,0 +1,85 @@
+/* SET DEFAULTS */
+*{
+    margin:0;
+    padding:0;
+    font-family:verdana;
+}
+/* MAKE SURE IMAGES FOLLOW SIZE OF CONTAINER */
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+body{
+    background-color:cornsilk;
+}
+span{
+    font-size: x-large;
+    font-weight: bold;
+    color: yellow;
+    text-shadow: 2px 2px #333;
+}
+/* TABLE DESIGN */
+
+.table-container{
+    width:100%;
+}
+table{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid white;
+}
+.row-header{
+    background-color:blue;
+    color:white;
+}
+td{
+    border:1px solid grey;
+}
+tr{
+    text-align:center;
+}
+tr:hover{
+    background-color:dodgerblue;
+    color:white;
+}
+td{
+    padding:15px;
+}
+/* buttons */
+.interested-button{
+    padding:10px;
+    background-color: green;
+    color:white;
+    font-weight: bold;
+    font-size:small;
+}
+.not-interested-button{
+    padding:10px;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    font-size:small;
+}
+.call-back-button{
+    padding:10px;
+    background-color: yellow;
+    color:black;
+    font-weight: bold;
+    font-size:small;
+}
+.do-not-call-button{
+    padding:10px;
+    background-color: red;
+    color:lightgrey;
+    font-weight: bold;
+    font-size:small;
+}
+.interested-button:hover,
+.not-interested-button:hover,
+.call-back-button:hover,
+.do-not-call-button:hover{
+    background-color:#333;
+    color:white;
+}
+

@@ -1,0 +1,215 @@
+[
+    {
+        "givenName": "Mary White",
+        "phoneNumber": 5132700936,
+        "email": "marywhite@gmail.com",
+        "location": "Dayton, OH",
+        "disposition": "CALL BACK"
+    },
+    
+    {
+        "givenName": "Maggie Williams",
+        "phoneNumber": 9296054639,
+        "email": "maggiewilliams@gmail.com",
+        "location": "Brooklyn,NY",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Shanelle Roberts",
+        "phoneNumber": 8037660503,
+        "email": "shanelleroberts@gmail.com",
+        "location": "Columbia, SC",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Alice Morgan",
+        "phoneNumber": 7792027861,
+        "email": "alicemorgan@gmail.com",
+        "location": "Rockford, IL",
+        "disposition": "INTERESTED"
+    },
+    {
+        "givenName": "Rose Brown",
+        "phoneNumber": 8622923156,
+        "email": "rosebrown@gmail.com",
+        "location": "Parsipany, NJ",
+        "disposition": "INTERESTED"
+    },
+    {
+        "givenName": "Kaye Lewis",
+        "phoneNumber": 7322284849,
+        "email": "kayelewis@gmail.com",
+        "location": "Bridgewater, NJ",
+        "disposition": "NOT INTERESTED"
+    },
+    {
+        "givenName": "Shaun Hudson",
+        "phoneNumber": 7069035404,
+        "email": "shaunhudson@gmail.com",
+        "location": "Augusta, GA",
+        "disposition": "DO NOT CALL"
+    },
+    {
+        "givenName": "Kaya Taylor",
+        "phoneNumber": 8037660505,
+        "email": "kayataylor@gmail.com",
+        "location": "Columbia, SC",
+        "disposition": "DO NOT CALL"
+    },
+    {
+        "givenName": "Amanda Jackson",
+        "phoneNumber": 5402358402,
+        "email": "amandajackson@gmail.com",
+        "location": "Chantilly, VA",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Lori Wage",
+        "phoneNumber": 3133970566,
+        "email": "loriwage@gmail.com",
+        "location": "Salt Lake City, UT",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Jasmine Morgan",
+        "phoneNumber": 8033421980,
+        "email": "jasminemorgan@gmail.com",
+        "location": "Fleming, FL",
+        "disposition": "INTERESTED"
+    },
+    {
+        "givenName": "John Parker",
+        "phoneNumber": 7867619412,
+        "email": "johnparker@gmail.com",
+        "location": "Gainesville, FL",
+        "disposition": "NOT INTERESTED"
+    },
+    {
+        "givenName": "Emily Wilson",
+        "phoneNumber": 4808854873,
+        "email": "emilywilson@gmail.com",
+        "location": "Bridgewater, NJ",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Lorna Lawrence",
+        "phoneNumber": 2814174443,
+        "email": "lornalawrence@gmail.com",
+        "location": "Houston S",
+        "disposition": "DO NOT CALL"
+    },
+    {
+        "givenName": "Kevin James",
+        "phoneNumber": 2692018403,
+        "email": "kevinjames@gmail.com",
+        "location": "Kalamazoo, MI",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Janet Tales",
+        "phoneNumber": 9046489987,
+        "email": "janettales@gmail.com",
+        "location": "Jacksonville",
+        "disposition": "NOT INTERESTED"
+    },
+    {
+        "givenName": "Summer Mcrae",
+        "phoneNumber": 5162002998,
+        "email": "summermcrae@gmail.com",
+        "location": "Long Island",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "May Harvey",
+        "phoneNumber": 5128172837,
+        "email": "mayharvey@gmail.com",
+        "location": "Rosedale",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Macy White",
+        "phoneNumber": 4707680272,
+        "email": "macywhite@gmail.com",
+        "location": "Orlando",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Leslie Morgan",
+        "phoneNumber": 7252623036,
+        "email": "lesliemorgan@gmail.com",
+        "location": "Las Vegas",
+        "disposition": "CALL BACK"
+    },
+    {
+        "givenName": "Faye David",
+        "phoneNumber": 8062430746,
+        "email": "fayedavid@gmail.com",
+        "location": "Lubbock",
+        "disposition": "NOT INTERESTED"
+    },
+    {
+        "givenName": "Melvir Junio",
+        "phoneNumber": 8003305349,
+        "email": "melvirjunio@gmail.com",
+        "location": "Boyds, MD",
+        "disposition": ""
+    },
+    {
+        "givenName": "Danilo Resultan",
+        "phoneNumber": 8002857995,
+        "email": "daniloresultan@gmail.com",
+        "location": "Houston, TX",
+        "disposition": ""
+    },
+    {
+        "givenName": "Eryne Mendoza",
+        "phoneNumber": 9034626592,
+        "email": "erynemendoza@gmail.com",
+        "location": "Florida",
+        "disposition": ""
+    },
+    {
+        "givenName": "Mark Bautista",
+        "phoneNumber": 1234567891,
+        "email": "markbautista@gmail.com",
+        "location": "Delaware",
+        "disposition": ""
+    },
+    {
+        "givenName": "Dom Baker",
+        "phoneNumber": 7273825774,
+        "email": "dombaker@gmail.com",
+        "location": "Clearwater",
+        "disposition": ""
+    },
+    {
+        "givenName": "Gwen Rile",
+        "phoneNumber": 5126101439,
+        "email": "gwenrile@gmail.com",
+        "location": "austin",
+        "disposition": ""
+    },
+    {
+        "givenName": "Aileen Diaz",
+        "phoneNumber": 7252377531,
+        "email": "aileendiaz@gmail.com",
+        "location": "Las Vegas",
+        "disposition": ""
+    },
+    {
+        "givenName": "Ana Clarkson",
+        "phoneNumber": 9713450004,
+        "email": "anaclarkson@gmail.com",
+        "location": "Portland, OR",
+        "disposition": ""
+    },
+    {
+        "givenName": "James Holland",
+        "phoneNumber": 2067010285,
+        "email": "jamesholland@gmail.com",
+        "location": "Seattle, WA",
+        "disposition": ""
+    }
+
+]
+
